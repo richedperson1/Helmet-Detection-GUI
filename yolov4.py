@@ -46,7 +46,7 @@ class yolo_helmet_v4:
                 # print(class_id)
                 confidence = scores[class_id]
                 # print(scores)
-                confidence_thr_v4 = 0.2
+                confidence_thr_v4 = 0.4
                 if confidence > confidence_thr_v4:
                     # print(class_id)
                     center_x = int(detection[0]*width)

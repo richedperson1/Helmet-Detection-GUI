@@ -4,3 +4,5 @@ helmetModel/
 *.pt
 __pycache__/
 .pyc
+*.mp4
+*.avi
