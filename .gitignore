@@ -1,0 +1,6 @@
+helmetModel/
+*.cfg
+*.weights*
+*.pt
+__pycache__/
+.pyc
